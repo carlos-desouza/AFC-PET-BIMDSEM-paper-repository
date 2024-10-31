@@ -1,0 +1,15 @@
+// Molegro Script Job.
+// Created: ter jun 11 17:56:10 2024
+// Structure file: Unnamed_complex.mvdml
+
+PARSERSETTINGS breakUnrealisticBonds=false;combineMoleculeFragments=true;useSybylForHybridization=true
+DOCKSETTINGS maxIterations=2500;runs=10;ignoreSimilarPoses=false;IgnoreSimilarPosesThreshold=1;MaxPoses=5;MinimizeReceptor=2000,2000;postMinimize=false;postOptimizeHBonds=false
+POSENAMEPATTERN [$ID] $NAME
+EVALUATORTYPE MolDockGrid
+EVALUATOR cropdistance=0;gridresolution=0.20;ligandes=true;sp2sp2bond=true;internalhbond=true;hbond90=true;SoftenPotential=true;DisplaceWater=false;tabuclustering=true,2,100,automorphisms
+OPTIMIZERTYPE MSE
+OPTIMIZER populationsize=50;cavity=true;creationEnergyThreshold=100;poseGenerator=10,10,50;recombine=true;maxsimplex=1250;simplexsteps=500;simplexdistancefactor=1;clusterthreshold=0.0
+LOAD "Unnamed_complex.mvdml"
+RMSD ligand[0]
+DOCK
+NEW

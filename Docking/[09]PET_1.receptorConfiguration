@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MVDML>
+<Object absolute="f" type="MVD.Model.ReceptorConformation" name="Minimized to Energy: 548.77." >
+<Descriptors></Descriptors>
+<ProteinBondAngleMap count="1" basetype="ProteinBondAngleMap" >
+<BondAngleMap proteinID="0" count="76" basetype="BondAngleMap" >
+<Bond id="363" angle="0.82612" />
+<Bond id="367" angle="-1.29119" />
+<Bond id="388" angle="-0.475194" />
+<Bond id="392" angle="-0.531861" />
+<Bond id="395" angle="0.408736" />
+<Bond id="461" angle="0.175606" />
+<Bond id="464" angle="-0.949378" />
+<Bond id="465" angle="1.23499" />
+<Bond id="475" angle="0.181455" />
+<Bond id="479" angle="0.250554" />
+<Bond id="481" angle="2.76391" />
+<Bond id="482" angle="1.08107" />
+<Bond id="516" angle="-0.860881" />
+<Bond id="520" angle="0.00744811" />
+<Bond id="523" angle="0.702583" />
+<Bond id="526" angle="0.279246" />
+<Bond id="932" angle="-4.35353" />
+<Bond id="936" angle="1.76649" />
+<Bond id="938" angle="2.01068" />
+<Bond id="939" angle="2.57836" />
+<Bond id="970" angle="0.0192727" />
+<Bond id="974" angle="4.50402" />
+<Bond id="984" angle="0.20599" />
+<Bond id="1028" angle="0.710773" />
+<Bond id="1032" angle="-0.0600793" />
+<Bond id="1035" angle="-0.616711" />
+<Bond id="1038" angle="-0.695813" />
+<Bond id="1466" angle="0.0954481" />
+<Bond id="1470" angle="-0.554524" />
+<Bond id="1477" angle="1.39563" />
+<Bond id="1488" angle="-0.556379" />
+<Bond id="1492" angle="-2.52371" />
+<Bond id="1499" angle="0.205071" />
+<Bond id="1503" angle="-0.215267" />
+<Bond id="1506" angle="0.361554" />
+<Bond id="1582" angle="-0.331192" />
+<Bond id="1619" angle="-0.553607" />
+<Bond id="1622" angle="-0.0543757" />
+<Bond id="1623" angle="4.76233" />
+<Bond id="1901" angle="0.281962" />
+<Bond id="1904" angle="3.44755" />
+<Bond id="1905" angle="-0.539794" />
+<Bond id="1915" angle="0.177633" />
+<Bond id="1919" angle="0.355714" />
+<Bond id="1922" angle="0.471884" />
+<Bond id="1925" angle="0.102451" />
+<Bond id="1928" angle="-1.84273" />
+<Bond id="1970" angle="-0.0523934" />
+<Bond id="1974" angle="-0.141624" />
+<Bond id="1977" angle="2.09231" />
+<Bond id="1987" angle="0.161216" />
+<Bond id="1991" angle="4.28503" />
+<Bond id="2337" angle="-0.0438297" />
+<Bond id="2340" angle="4.32815" />
+<Bond id="2341" angle="0.373818" />
+<Bond id="2395" angle="-0.01419" />
+<Bond id="2399" angle="0.259696" />
+<Bond id="2401" angle="0.0139818" />
+<Bond id="2402" angle="-0.0451328" />
+<Bond id="2433" angle="-0.0070129" />
+<Bond id="2436" angle="3.50695" />
+<Bond id="2437" angle="-0.933166" />
+<Bond id="2484" angle="-0.143384" />
+<Bond id="2488" angle="3.80371" />
+<Bond id="2502" angle="0.417797" />
+<Bond id="2506" angle="1.11154" />
+<Bond id="2508" angle="1.25665" />
+<Bond id="2509" angle="0.52683" />
+<Bond id="2531" angle="-0.00894532" />
+<Bond id="2535" angle="0.241277" />
+<Bond id="2542" angle="5.37279" />
+<Bond id="2553" angle="0.258163" />
+<Bond id="2557" angle="-0.156342" />
+<Bond id="2560" angle="-0.558217" />
+<Bond id="2570" angle="-0.786242" />
+<Bond id="2574" angle="-1.68329" />
+</BondAngleMap>
+</ProteinBondAngleMap>
+</Object>
