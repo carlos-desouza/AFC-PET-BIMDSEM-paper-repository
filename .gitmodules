@@ -1,0 +1,3 @@
+[submodule "replicates_protocol"]
+	path = replicates_protocol
+	url = https://github.com/karurosu28c/replicates_protocol.git
